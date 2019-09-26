@@ -5,3 +5,6 @@ li {
 span { 
 font-size: x-small; 
  }
+body {
+	background-color: pink;
+}
